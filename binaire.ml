@@ -2,6 +2,7 @@ open Printf
 open Pervasives
 open Big_int;;
 (* 
+*
 *compilation: ocamlc nums.cma pstl.ml
 *compilation fichier dot 
 * dot -Tpng -O file.dot  pour voir l'ABR avec graphiz
